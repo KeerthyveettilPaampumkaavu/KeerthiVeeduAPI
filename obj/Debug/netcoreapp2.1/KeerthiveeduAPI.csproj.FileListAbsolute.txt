@@ -1,0 +1,14 @@
+F:\Personal\Websites\Keerthiveedu\API\Keerthiveedu\KeerthiveeduAPI\bin\Debug\netcoreapp2.1\KeerthiveeduAPI.deps.json
+F:\Personal\Websites\Keerthiveedu\API\Keerthiveedu\KeerthiveeduAPI\bin\Debug\netcoreapp2.1\KeerthiveeduAPI.runtimeconfig.json
+F:\Personal\Websites\Keerthiveedu\API\Keerthiveedu\KeerthiveeduAPI\bin\Debug\netcoreapp2.1\KeerthiveeduAPI.runtimeconfig.dev.json
+F:\Personal\Websites\Keerthiveedu\API\Keerthiveedu\KeerthiveeduAPI\bin\Debug\netcoreapp2.1\KeerthiveeduAPI.dll
+F:\Personal\Websites\Keerthiveedu\API\Keerthiveedu\KeerthiveeduAPI\obj\Debug\netcoreapp2.1\KeerthiveeduAPI.csproj.CoreCompileInputs.cache
+F:\Personal\Websites\Keerthiveedu\API\Keerthiveedu\KeerthiveeduAPI\obj\Debug\netcoreapp2.1\KeerthiveeduAPI.RazorAssemblyInfo.cache
+F:\Personal\Websites\Keerthiveedu\API\Keerthiveedu\KeerthiveeduAPI\obj\Debug\netcoreapp2.1\KeerthiveeduAPI.RazorAssemblyInfo.cs
+F:\Personal\Websites\Keerthiveedu\API\Keerthiveedu\KeerthiveeduAPI\obj\Debug\netcoreapp2.1\KeerthiveeduAPI.AssemblyInfoInputs.cache
+F:\Personal\Websites\Keerthiveedu\API\Keerthiveedu\KeerthiveeduAPI\obj\Debug\netcoreapp2.1\KeerthiveeduAPI.AssemblyInfo.cs
+F:\Personal\Websites\Keerthiveedu\API\Keerthiveedu\KeerthiveeduAPI\obj\Debug\netcoreapp2.1\KeerthiveeduAPI.RazorTargetAssemblyInfo.cache
+F:\Personal\Websites\Keerthiveedu\API\Keerthiveedu\KeerthiveeduAPI\bin\Debug\netcoreapp2.1\KeerthiveeduAPI.pdb
+F:\Personal\Websites\Keerthiveedu\API\Keerthiveedu\KeerthiveeduAPI\obj\Debug\netcoreapp2.1\KeerthiveeduAPI.dll
+F:\Personal\Websites\Keerthiveedu\API\Keerthiveedu\KeerthiveeduAPI\obj\Debug\netcoreapp2.1\KeerthiveeduAPI.pdb
+F:\Personal\Websites\Keerthiveedu\API\Keerthiveedu\KeerthiveeduAPI\obj\Debug\netcoreapp2.1\KeerthiveeduAPI.csprojAssemblyReference.cache
